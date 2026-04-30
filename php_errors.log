@@ -1,0 +1,7 @@
+[13-Mar-2026 11:43:47 Europe/Berlin] PHP Warning:  Undefined variable $db in C:\Users\HP\Downloads\Smart City Waste Monitoring System\Smart City Waste Monitoring System\Smart City Waste Monitoring System\check_status.php on line 3
+[13-Mar-2026 11:43:47 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in C:\Users\HP\Downloads\Smart City Waste Monitoring System\Smart City Waste Monitoring System\Smart City Waste Monitoring System\check_status.php:3
+Stack trace:
+#0 C:\Users\HP\Downloads\Smart City Waste Monitoring System\Smart City Waste Monitoring System\Smart City Waste Monitoring System\check_status.php(3): mysqli_query(NULL, 'SELECT DISTINCT...')
+#1 {main}
+  thrown in C:\Users\HP\Downloads\Smart City Waste Monitoring System\Smart City Waste Monitoring System\Smart City Waste Monitoring System\check_status.php on line 3
+[30-Apr-2026 04:30:40 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\Users\HP\Desktop\Smart City Waste Monitoring System\Smart City Waste Monitoring System 1\connection.php on line 25
