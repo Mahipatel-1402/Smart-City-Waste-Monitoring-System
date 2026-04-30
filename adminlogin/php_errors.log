@@ -1,0 +1,142 @@
+[02-Jan-2026 07:26:47 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\connection.php:2
+Stack trace:
+#0 C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\connection.php(2): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'wms')
+#1 C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php(132): include('C:\\Users\\HP\\Dow...')
+#2 {main}
+  thrown in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\connection.php on line 2
+[02-Jan-2026 07:27:04 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\connection.php:2
+Stack trace:
+#0 C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\connection.php(2): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'wms')
+#1 C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php(132): include('C:\\Users\\HP\\Dow...')
+#2 {main}
+  thrown in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\connection.php on line 2
+[02-Jan-2026 07:28:25 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\connection.php:2
+Stack trace:
+#0 C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\connection.php(2): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'wms')
+#1 C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php(132): include('C:\\Users\\HP\\Dow...')
+#2 {main}
+  thrown in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\connection.php on line 2
+[02-Jan-2026 07:39:01 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\connection.php:2
+Stack trace:
+#0 C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\connection.php(2): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'wms')
+#1 C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php(132): include('C:\\Users\\HP\\Dow...')
+#2 {main}
+  thrown in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\connection.php on line 2
+[02-Jan-2026 10:33:18 Europe/Berlin] PHP Warning:  Undefined array key "password" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 4
+[02-Jan-2026 10:33:18 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\connection.php:2
+Stack trace:
+#0 C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\connection.php(2): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'wms')
+#1 C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php(132): include('C:\\Users\\HP\\Dow...')
+#2 {main}
+  thrown in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\connection.php on line 2
+[02-Jan-2026 14:14:37 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 3
+[02-Jan-2026 14:14:37 Europe/Berlin] PHP Warning:  Undefined array key "password" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 4
+[02-Jan-2026 14:14:37 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\connection.php:2
+Stack trace:
+#0 C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\connection.php(2): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'wms')
+#1 C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php(132): include('C:\\Users\\HP\\Dow...')
+#2 {main}
+  thrown in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\connection.php on line 2
+[02-Jan-2026 14:15:57 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\connection.php:2
+Stack trace:
+#0 C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\connection.php(2): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'wms')
+#1 C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php(132): include('C:\\Users\\HP\\Dow...')
+#2 {main}
+  thrown in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\connection.php on line 2
+[02-Jan-2026 14:36:09 Europe/Berlin] PHP Warning:  Undefined array key "password" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 4
+[02-Jan-2026 14:46:55 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 3
+[02-Jan-2026 14:46:55 Europe/Berlin] PHP Warning:  Undefined array key "password" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 4
+[02-Jan-2026 14:46:55 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 135
+[02-Jan-2026 14:47:23 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 3
+[02-Jan-2026 14:47:23 Europe/Berlin] PHP Warning:  Undefined array key "password" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 4
+[02-Jan-2026 14:47:23 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 135
+[02-Jan-2026 14:47:23 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 3
+[02-Jan-2026 14:47:23 Europe/Berlin] PHP Warning:  Undefined array key "password" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 4
+[02-Jan-2026 14:47:23 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 135
+[02-Jan-2026 14:56:27 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 3
+[02-Jan-2026 14:56:27 Europe/Berlin] PHP Warning:  Undefined array key "password" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 4
+[02-Jan-2026 14:56:27 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 135
+[02-Jan-2026 15:00:54 Europe/Berlin] PHP Warning:  Undefined array key "password" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 4
+[02-Jan-2026 15:02:42 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 10
+[02-Jan-2026 15:02:42 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 11
+[02-Jan-2026 16:15:38 Europe/Berlin] PHP Warning:  Undefined array key "password" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 4
+[03-Jan-2026 03:38:25 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 3
+[03-Jan-2026 03:38:25 Europe/Berlin] PHP Warning:  Undefined array key "password" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 4
+[03-Jan-2026 03:38:25 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 136
+[03-Jan-2026 03:38:46 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 3
+[03-Jan-2026 03:38:46 Europe/Berlin] PHP Warning:  Undefined array key "password" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 4
+[03-Jan-2026 03:38:46 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 136
+[03-Jan-2026 03:39:06 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 3
+[03-Jan-2026 03:39:06 Europe/Berlin] PHP Warning:  Undefined array key "password" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 4
+[03-Jan-2026 03:39:06 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 136
+[03-Jan-2026 03:46:37 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 3
+[03-Jan-2026 03:46:37 Europe/Berlin] PHP Warning:  Undefined array key "password" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 4
+[03-Jan-2026 03:46:37 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 136
+[03-Jan-2026 03:48:21 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 3
+[03-Jan-2026 03:48:21 Europe/Berlin] PHP Warning:  Undefined array key "password" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 4
+[03-Jan-2026 03:48:21 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 135
+[03-Jan-2026 04:00:46 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 3
+[03-Jan-2026 04:00:46 Europe/Berlin] PHP Warning:  Undefined array key "password" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 4
+[03-Jan-2026 04:00:46 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 137
+[03-Jan-2026 04:04:32 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 3
+[03-Jan-2026 04:04:32 Europe/Berlin] PHP Warning:  Undefined array key "password" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 4
+[03-Jan-2026 04:04:32 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 138
+[03-Jan-2026 04:06:41 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 3
+[03-Jan-2026 04:06:41 Europe/Berlin] PHP Warning:  Undefined array key "password" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 4
+[03-Jan-2026 04:06:41 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 139
+[03-Jan-2026 04:11:16 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 3
+[03-Jan-2026 04:11:16 Europe/Berlin] PHP Warning:  Undefined array key "password" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 4
+[03-Jan-2026 04:11:16 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 136
+[03-Jan-2026 07:11:46 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 10
+[03-Jan-2026 07:11:46 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 11
+[03-Jan-2026 07:12:27 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 10
+[03-Jan-2026 07:12:27 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 11
+[03-Jan-2026 07:13:41 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 3
+[03-Jan-2026 07:13:41 Europe/Berlin] PHP Warning:  Undefined array key "password" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 4
+[03-Jan-2026 07:13:41 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 136
+[03-Jan-2026 08:10:46 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 3
+[03-Jan-2026 08:10:46 Europe/Berlin] PHP Warning:  Undefined array key "password" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 4
+[03-Jan-2026 08:10:46 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 121
+[03-Jan-2026 11:21:58 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 3
+[03-Jan-2026 11:21:58 Europe/Berlin] PHP Warning:  Undefined array key "password" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 4
+[03-Jan-2026 11:21:58 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 121
+[03-Jan-2026 11:22:34 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 3
+[03-Jan-2026 11:22:34 Europe/Berlin] PHP Warning:  Undefined array key "password" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 4
+[03-Jan-2026 11:22:34 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 121
+[03-Jan-2026 11:23:29 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 3
+[03-Jan-2026 11:23:29 Europe/Berlin] PHP Warning:  Undefined array key "password" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 4
+[03-Jan-2026 11:23:29 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 121
+[03-Jan-2026 11:29:10 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 3
+[03-Jan-2026 11:29:10 Europe/Berlin] PHP Warning:  Undefined array key "password" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 4
+[03-Jan-2026 11:29:10 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 121
+[03-Jan-2026 11:29:24 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 3
+[03-Jan-2026 11:29:24 Europe/Berlin] PHP Warning:  Undefined array key "password" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 4
+[03-Jan-2026 11:29:24 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 121
+[04-Jan-2026 13:35:25 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 3
+[04-Jan-2026 13:35:25 Europe/Berlin] PHP Warning:  Undefined array key "password" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 4
+[04-Jan-2026 13:35:25 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 121
+[04-Jan-2026 13:35:29 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 3
+[04-Jan-2026 13:35:29 Europe/Berlin] PHP Warning:  Undefined array key "password" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 4
+[04-Jan-2026 13:35:29 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 121
+[04-Jan-2026 13:45:00 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 3
+[04-Jan-2026 13:45:00 Europe/Berlin] PHP Warning:  Undefined array key "password" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 4
+[04-Jan-2026 13:45:00 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\adminlogin\welcome.php on line 121
+[11-Mar-2026 08:39:13 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Documents\6th sem\PROJECT\Smart City Waste Monitoring System\adminlogin\welcome.php on line 3
+[11-Mar-2026 08:39:13 Europe/Berlin] PHP Warning:  Undefined array key "password" in C:\Users\HP\Documents\6th sem\PROJECT\Smart City Waste Monitoring System\adminlogin\welcome.php on line 4
+[11-Mar-2026 08:39:13 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Documents\6th sem\PROJECT\Smart City Waste Monitoring System\adminlogin\welcome.php on line 120
+[11-Mar-2026 09:46:38 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Documents\6th sem\PROJECT\Smart City Waste Monitoring System\adminlogin\welcome.php on line 3
+[11-Mar-2026 09:46:38 Europe/Berlin] PHP Warning:  Undefined array key "password" in C:\Users\HP\Documents\6th sem\PROJECT\Smart City Waste Monitoring System\adminlogin\welcome.php on line 4
+[11-Mar-2026 09:46:38 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Documents\6th sem\PROJECT\Smart City Waste Monitoring System\adminlogin\welcome.php on line 120
+[12-Mar-2026 12:56:33 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\Smart City Waste Monitoring System\Smart City Waste Monitoring System\adminlogin\welcome.php on line 3
+[12-Mar-2026 12:56:33 Europe/Berlin] PHP Warning:  Undefined array key "password" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\Smart City Waste Monitoring System\Smart City Waste Monitoring System\adminlogin\welcome.php on line 4
+[12-Mar-2026 12:56:33 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\Smart City Waste Monitoring System\Smart City Waste Monitoring System\adminlogin\welcome.php on line 120
+[13-Mar-2026 03:17:36 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\Smart City Waste Monitoring System\Smart City Waste Monitoring System\adminlogin\welcome.php on line 3
+[13-Mar-2026 03:17:36 Europe/Berlin] PHP Warning:  Undefined array key "password" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\Smart City Waste Monitoring System\Smart City Waste Monitoring System\adminlogin\welcome.php on line 4
+[13-Mar-2026 03:17:36 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\Users\HP\Downloads\Smart City Waste Monitoring System\Smart City Waste Monitoring System\Smart City Waste Monitoring System\adminlogin\welcome.php on line 120
+[13-Mar-2026 03:21:25 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in C:\Users\HP\Downloads\Smart City Waste Monitoring System\Smart City Waste Monitoring System\Smart City Waste Monitoring System\connection.php:22
+Stack trace:
+#0 C:\Users\HP\Downloads\Smart City Waste Monitoring System\Smart City Waste Monitoring System\Smart City Waste Monitoring System\connection.php(22): mysqli_connect('127.0.0.1', 'root', Object(SensitiveParameterValue), 'wms')
+#1 C:\Users\HP\Downloads\Smart City Waste Monitoring System\Smart City Waste Monitoring System\Smart City Waste Monitoring System\controllerUserData.php(3): require('C:\\Users\\HP\\Dow...')
+#2 C:\Users\HP\Downloads\Smart City Waste Monitoring System\Smart City Waste Monitoring System\Smart City Waste Monitoring System\adminlogin\welcome.php(2): require_once('C:\\Users\\HP\\Dow...')
+#3 {main}
+  thrown in C:\Users\HP\Downloads\Smart City Waste Monitoring System\Smart City Waste Monitoring System\Smart City Waste Monitoring System\connection.php on line 22
